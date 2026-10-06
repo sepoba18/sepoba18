@@ -52,7 +52,7 @@
 
 | Proyecto | Descripción | Stack | Repositorio |
 | :--- | :--- | :--- | :---: |
-| 💰 **Control Financiero** | App Android nativa para finanzas personales, presupuestos dinámicos, control de gastos en cuotas y suscripciones recurrentes con arquitectura MVVM y persistencia reactiva. | `Kotlin` `Jetpack Compose` `Room v3` `Coroutines` | [Ver proyecto](https://github.com/sepoba18/Control_Financiero) |
+| 💰 **Control Financiero** | App Android nativa para finanzas personales, presupuestos dinámicos, control de gastos en cuotas y suscripciones recurrentes con arquitectura MVVM y persistencia reactiva. | `Kotlin` `Jetpack Compose` `Room v3` `Coroutines` | [Repo Privado 🔒](https://github.com/sepoba18/Control_Financiero) |
 | 🛏️ **Cannon App** | Cotizador comercial y catálogo inteligente multi-plaza con cálculo dinámico de descuentos, búsqueda en vivo y persistencia JSON. | `Java` `Android SDK` `Material 3` `JSON` | [Ver proyecto](https://github.com/sepoba18/Cannon) |
 | 🚦 **Simulación Concurrente de Peaje** | Modelado multithreading de una estación de peaje en Java. Demuestra condiciones de carrera y exclusión mutua mediante sincronización de hilos. | `Java` `Multithreading` `Concurrency` `OOP` | [Ver proyecto](https://github.com/sepoba18/ProyectoPeaje) |
 | 🚀 **SpaceX Mission Dashboard** | Tablero analítico interactivo en Streamlit para el análisis y exploración visual de telemetría de lanzamientos espaciales vía API REST v4 oficial. | `Python` `Streamlit` `Pandas` `Altair` | [Ver proyecto](https://github.com/sepoba18/Solemne-3) |
