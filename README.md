@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/sepoba18">
-    <img src="https://img.shields.io/badge/Ingenier%C3%ADa_Civil_Inform%C3%A1tica-USS_%F0%9F%87%A8%F0%9F%87%B1-1f4287?style=for-the-badge&logo=mortarboard&logoColor=white" alt="Universidad San Sebastian">
+    <img src="https://img.shields.io/badge/Ingenier%C3%ADa_Civil_Inform%C3%A1tica-USS_Chile-1f4287?style=for-the-badge&logo=mortarboard&logoColor=white" alt="Universidad San Sebastian">
   </a>
   <a href="https://github.com/sepoba18">
     <img src="https://img.shields.io/badge/Especialidad-Android_%7C_Kotlin_%7C_Java_%7C_Python-075e54?style=for-the-badge&logo=android&logoColor=white" alt="Especialidad">
@@ -13,16 +13,16 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 
-- 🎓 **Carrera:** Estudiante de Ingeniería Civil Informática en la **Universidad San Sebastián** (Chile).
-- 📱 **Desarrollo Móvil:** Especializado en aplicaciones nativas para **Android** aplicando arquitectura limpia (**MVVM**), **Jetpack Compose**, **Room Database** y **Java / Material Design 3**.
-- ⚙️ **Áreas de Interés:** Arquitectura de software, sistemas concurrentes y multithreading, computación científica y visualización de datos con Python.
-- 🎯 **Filosofía de Trabajo:** Código modular, estructurado, buenas prácticas de desarrollo y experiencia de usuario fluida y cuidada.
+- **Carrera:** Estudiante de Ingeniería Civil Informática en la **Universidad San Sebastián** (Chile).
+- **Desarrollo Móvil:** Especializado en aplicaciones nativas para **Android** aplicando arquitectura limpia (**MVVM**), **Jetpack Compose**, **Room Database** y **Java / Material Design 3**.
+- **Áreas de Interés:** Arquitectura de software, sistemas concurrentes y multithreading, computación científica y visualización de datos con Python.
+- **Filosofía de Trabajo:** Código modular, estructurado, buenas prácticas de desarrollo y experiencia de usuario fluida y cuidada.
 
 ---
 
-### 🛠️ Stack Tecnológico y Herramientas
+### Stack Tecnológico y Herramientas
 
 <p align="center">
   <!-- Lenguajes -->
@@ -48,18 +48,18 @@
 
 ---
 
-### 🌟 Proyectos Destacados
+### Proyectos Destacados
 
 | Proyecto | Descripción | Stack | Repositorio |
 | :--- | :--- | :--- | :---: |
-| 💰 **Control Financiero** | App Android nativa para finanzas personales, presupuestos dinámicos, control de gastos en cuotas y suscripciones recurrentes con arquitectura MVVM y persistencia reactiva. | `Kotlin` `Jetpack Compose` `Room v3` `Coroutines` | [Repo Privado 🔒](https://github.com/sepoba18/Control_Financiero) |
-| 🛏️ **Cannon App** | Cotizador comercial y catálogo inteligente multi-plaza con cálculo dinámico de descuentos, búsqueda en vivo y persistencia JSON. | `Java` `Android SDK` `Material 3` `JSON` | [Ver proyecto](https://github.com/sepoba18/Cannon) |
-| 🚦 **Simulación Concurrente de Peaje** | Modelado multithreading de una estación de peaje en Java. Demuestra condiciones de carrera y exclusión mutua mediante sincronización de hilos. | `Java` `Multithreading` `Concurrency` `OOP` | [Ver proyecto](https://github.com/sepoba18/ProyectoPeaje) |
-| 🚀 **SpaceX Mission Dashboard** | Tablero analítico interactivo en Streamlit para el análisis y exploración visual de telemetría de lanzamientos espaciales vía API REST v4 oficial. | `Python` `Streamlit` `Pandas` `Altair` | [Ver proyecto](https://github.com/sepoba18/Solemne-3) |
+| **Control Financiero** | App Android nativa para finanzas personales, presupuestos dinámicos, control de gastos en cuotas y suscripciones recurrentes con arquitectura MVVM y persistencia reactiva. | `Kotlin` `Jetpack Compose` `Room v3` `Coroutines` | [Repo Privado](https://github.com/sepoba18/Control_Financiero) |
+| **Cannon App** | Cotizador comercial y catálogo inteligente multi-plaza con cálculo dinámico de descuentos, búsqueda en vivo y persistencia JSON. | `Java` `Android SDK` `Material 3` `JSON` | [Ver proyecto](https://github.com/sepoba18/Cannon) |
+| **Simulación Concurrente de Peaje** | Modelado multithreading de una estación de peaje en Java. Demuestra condiciones de carrera y exclusión mutua mediante sincronización de hilos. | `Java` `Multithreading` `Concurrency` `OOP` | [Ver proyecto](https://github.com/sepoba18/ProyectoPeaje) |
+| **SpaceX Mission Dashboard** | Tablero analítico interactivo en Streamlit para el análisis y exploración visual de telemetría de lanzamientos espaciales vía API REST v4 oficial. | `Python` `Streamlit` `Pandas` `Altair` | [Ver proyecto](https://github.com/sepoba18/Solemne-3) |
 
 ---
 
-### 📊 Estadísticas y Actividad en GitHub
+### Estadísticas y Actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sepoba18&show_icons=true&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&icon_color=98c379" alt="GitHub Stats" width="48%" />
@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <sub>Diseñado con dedicación y buenas prácticas por <b>Sebastián Orellana</b> 🇨🇱</sub>
+  <sub>Diseñado con dedicación y buenas prácticas por <b>Sebastián Orellana</b>.</sub>
 </p>
